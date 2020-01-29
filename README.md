@@ -1,6 +1,6 @@
 # workshop_mongoDB Atlas 
 
-## Names
+## Names:
 
 - Sumana Reddy Reddybathula
 
