@@ -1,4 +1,4 @@
-# workshop_MongoDB
+# workshop_mongodb
 
 ## Names
 
