@@ -1,4 +1,4 @@
-# workshop_mongoDB
+# workshop_mongoDB :rocket:
 
 ## Names
 
