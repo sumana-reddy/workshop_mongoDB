@@ -2,10 +2,10 @@
 
 ## Names
 
-Sumana Reddy Reddybathula
+1. Sumana Reddy Reddybathula
 
-Navya Devineni
+1. Navya Devineni
 
-Rohitha Reddy Meda
+1. Rohitha Reddy Meda
 
-Naga Anshitha Velagapudi
+1. Naga Anshitha Velagapudi
