@@ -1,1 +1,0 @@
-We are going to work on MongoDB Atlas and this is out 1st workshop.
