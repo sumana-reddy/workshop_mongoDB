@@ -1,4 +1,4 @@
-# workshop_mongoDB Atlas 
+# workshop_mongoDB Atlas:
 
 ## Names:
 
