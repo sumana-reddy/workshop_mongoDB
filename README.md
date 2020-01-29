@@ -10,4 +10,3 @@
 
 - Naga Anshitha Velagapudi
 
-- Sumana
