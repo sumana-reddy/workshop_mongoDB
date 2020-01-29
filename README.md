@@ -4,4 +4,4 @@
 
 Sumana Reddy Reddybathula
 
-Navya
+Navya Devineni
